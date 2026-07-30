@@ -8,7 +8,7 @@
 - 🔭 I build end-to-end web applications — from responsive frontends to secure backend APIs
 - 🌱 Currently sharpening my skills in **React**, **Laravel**, and **API authentication**
 - 💬 Ask me about **PHP**, **Java**, **MySQL**, or **Laravel Sanctum**
-- 📫 Reach me at: **[kuotsuato59@gmail.com]**
+- 📫 Reach me at: **kuotsuato59@gmail.com**
 
 ---
 
