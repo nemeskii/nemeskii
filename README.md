@@ -8,7 +8,7 @@
 - 🔭 I build end-to-end web applications — from responsive frontends to secure backend APIs
 - 🌱 Currently sharpening my skills in **React**, **Laravel**, and **API authentication**
 - 💬 Ask me about **PHP**, **Java**, **MySQL**, or **Laravel Sanctum**
-- 📫 Reach me at: **kuotsuato59@gmail.com**
+- 📫 Reach me at: **[kuotsuato59@gmail.com]**
 
 ---
 
@@ -45,6 +45,11 @@
 > Built with: React + Vite (`frontend/`), Laravel + Sanctum (`backend/`), MySQL
 > 🔗 [Live Demo](https://kuotsu.vercel.app/)
 
+<!-- Add more projects below using the same format -->
+**[Project Name 2](https://github.com/nemeskii/repo-name-2)**
+> Short one-line description.
+> Built with: Laravel, PHP, custom middleware
+
 ---
 
 ### 📊 GitHub Stats
@@ -54,5 +59,4 @@
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ato-kuotsu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ato-kuotsu-397515191)
