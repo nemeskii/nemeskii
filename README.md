@@ -45,11 +45,6 @@
 > Built with: React + Vite (`frontend/`), Laravel + Sanctum (`backend/`), MySQL
 > 🔗 [Live Demo](https://kuotsu.vercel.app/)
 
-<!-- Add more projects below using the same format -->
-**[Project Name 2](https://github.com/nemeskii/repo-name-2)**
-> Short one-line description.
-> Built with: Laravel, PHP, custom middleware
-
 ---
 
 ### 📊 GitHub Stats
